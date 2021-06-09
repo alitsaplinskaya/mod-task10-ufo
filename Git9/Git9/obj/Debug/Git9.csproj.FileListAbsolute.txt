@@ -1,0 +1,5 @@
+C:\Users\alits\source\repos\Git9\Git9\obj\Debug\Git9.csprojAssemblyReference.cache
+C:\Users\alits\source\repos\Git9\Git9\obj\Debug\Git9.Form1.resources
+C:\Users\alits\source\repos\Git9\Git9\obj\Debug\Git9.Properties.Resources.resources
+C:\Users\alits\source\repos\Git9\Git9\obj\Debug\Git9.csproj.GenerateResource.cache
+C:\Users\alits\source\repos\Git9\Git9\obj\Debug\Git9.csproj.CoreCompileInputs.cache
